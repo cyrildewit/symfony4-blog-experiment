@@ -1,1 +1,1 @@
-"# symfony4-blog-experiment" 
+# symfony4-blog-experiment
